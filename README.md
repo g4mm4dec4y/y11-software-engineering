@@ -1,1 +1,1 @@
-This is essentially just classwork completed for Software Engineering.
+> This is all the classwork completed for Software Engineering.
