@@ -25,6 +25,7 @@ def game_start():
             elif guess < game_number:
                 print("Higher\n")
             number_of_guesses = number_of_guesses + 1
+            #Counter gets added to for keeping track
         else:
         #If user wins, the while loop is broken to continue to regeneration
             print("Correct! You win.")
