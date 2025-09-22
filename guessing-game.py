@@ -9,7 +9,7 @@ def game_start():
     valid = True
     number_of_guesses =  0
     game_number = target_number()
-    while number_og_guesses <= 10:
+    while number_of_guesses <= 10:
         win = True
         guess = input("Guess a number: ")
         if guess != game_number:
