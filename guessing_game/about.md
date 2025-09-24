@@ -27,6 +27,6 @@ The break statement was tinkered around with and after placing it within the els
 Game executed correctly after this and was finalised.
 
 ### Screenshots
-![simplicity of execution](https://github.com/[g4mm4r4]/[y11-python]/blob/[classwork]/images/guess_game_exec.png?raw=true)
-![random number function](guess_game_rangen.png)
+![simplicity of execution](images/guess_game_exec.png)
+![random number function](images/guess_game_rangen.png)
 
