@@ -27,6 +27,9 @@ The break statement was tinkered around with and after placing it within the els
 Game executed correctly after this and was finalised.
 
 ### Screenshots
+The following screenshot shows the main code, which due to function utilisation is quite simple.
 ![simplicity of execution](/images/guess_game_exec.png)
+
+The following screenshot shows the function that randomly generates a number for the game.
 ![random number function](/images/guess_game_rangen.png)
 
