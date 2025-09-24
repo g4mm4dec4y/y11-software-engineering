@@ -7,7 +7,8 @@ The program decides on a number between 1 and 1000, and your job is to guess the
 The game prompts the user with clues on whether their guess is lower or higher.
 The user has the option to restart the game at the end. 
 
-## Development
+## Development:
+
 ### The coding
 This game was developed rather simply. 
 A function handles the generation of a random number that the user has to guess.
