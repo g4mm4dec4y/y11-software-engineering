@@ -27,3 +27,5 @@ The break statement was tinkered around with and after placing it within the els
 Game executed correctly after this and was finalised.
 
 ### Screenshots
+![simplicity of execution](guess_game_exec.png)
+![random number function](guess_game_rangen.png)
