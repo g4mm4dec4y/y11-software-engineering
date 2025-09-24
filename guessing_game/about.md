@@ -6,7 +6,6 @@ This is a simple guessing game.
 The program decides on a number between 1 and 1000, and your job is to guess the number in 10 guesses. 
 The game prompts the user with clues on whether their guess is lower or higher.
 The user has the option to restart the game at the end. 
----
 
 ## Development
 ### The coding
