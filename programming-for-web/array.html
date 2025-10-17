@@ -1,0 +1,37 @@
+<! DOCTYPE HTML>
+<HTML>
+	<HEAD>
+		<TITLE>Simple Array</TITLE>
+		<SCRIPT LANGUAGE = "Javascript">
+			var my_array = [10, "ten", true];
+			document.write( my_array[3] + "<BR>");
+			my_array[3] = "new item";
+			document.write( my_array[4] );
+
+			/* Declare and set variables for first use. */
+			var available;
+
+			available = new Array('paper', 'scissors', 'rock');
+
+			/* Loop through the array printing out each option. */
+			alert (available[0]);
+			alert (available[1]);
+			alert (available[2]);
+			alert (available[3]);
+
+			/* Declare and set variables for first use. */
+			var available, index;
+
+			available = new Array('paper', 'scissors', 'rock');
+			index = Math.floor(Math.random() * 3);
+
+			/* Print out the item which is stored in the index variable */
+			alert (available[index]);
+
+
+		</SCRIPT>
+	</HEAD>
+	<BODY>
+	
+	</BODY>
+</HTML>
