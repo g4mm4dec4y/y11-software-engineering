@@ -3,4 +3,10 @@ S.E. Procedure/Module
 Tags, attributes > selectors/classes, attributes > functionality
 
 Site controlled through the Document Object Model (Object Oriented)
+Class is common in JS and CSS
+Selector: properties; attributes and methods
+
+Procedures are part of procedural/imperative/module paradigm
+One returns, one makes something happen: functions and subroutines
+Function always returns
 
