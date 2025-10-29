@@ -1,4 +1,6 @@
-> This is all the classwork completed for Software Engineering in Year 11.
-> These are mostly snippets of code for classwork.
-***
-> **however** my two **assessment projects** are in the **Assignments** folder. Check 'em out!!
+<h2> TL;DR: </h2>
+The most important files here are my two assignment projects, both of which are located in the **Assignments** folder. <br>
+Check 'em out!!
+
+<h2> Generally speaking, </h2>
+This is classwork completed for Year 11 Software Engineering, whereby most files are small snippets of code.
